@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sentoso_Andrew_DIG3480_Tutorial2-Part2", "Sentoso_Andrew_DIG3480_Tutorial2-Part2.csproj", "{27373161-70EA-8AEA-681B-EB6D76F41DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27373161-70EA-8AEA-681B-EB6D76F41DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27373161-70EA-8AEA-681B-EB6D76F41DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27373161-70EA-8AEA-681B-EB6D76F41DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27373161-70EA-8AEA-681B-EB6D76F41DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
